@@ -7,7 +7,7 @@ setTimeout(() =>{
     }
 },5000) 
 }
-//main(1,7)
+//main(1,10)
 main(1,"10n")
 
 function demo()
