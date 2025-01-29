@@ -1,0 +1,19 @@
+[
+    {
+        "name" : "Hridhu" ,
+        "id"   : 1 ,
+        "designation" : "developer"
+    },
+
+    {
+        "name" : "Haroon" ,
+        "id"   : 2 ,
+        "designation" : "tester"
+    },
+
+    {
+        "name" : "Riddhi" ,
+        "id"   : 7 ,
+        "designation" : "devops"
+    }
+]
